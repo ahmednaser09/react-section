@@ -8,8 +8,9 @@ import './services.css'
 function Services() {
   return (
     <div>
-      <h2 class="speacial-heading">Services</h2>
-      <p>Seerrrr</p>
+      <h2 class="speacial-heading">activity
+      </h2>
+      <p>school</p>
       <section className="services">
         <div className="container_services">
           <div className="serviceBox">
